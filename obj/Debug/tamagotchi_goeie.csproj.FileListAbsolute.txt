@@ -1,0 +1,10 @@
+C:\Users\samou\source\repos\tamagotchi_goeie\bin\Debug\tamagotchi_goeie.exe.config
+C:\Users\samou\source\repos\tamagotchi_goeie\bin\Debug\tamagotchi_goeie.exe
+C:\Users\samou\source\repos\tamagotchi_goeie\bin\Debug\tamagotchi_goeie.pdb
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.Form1.resources
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.Properties.Resources.resources
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.csproj.GenerateResource.cache
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.csproj.CoreCompileInputs.cache
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.exe
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.pdb
+C:\Users\samou\source\repos\tamagotchi_goeie\obj\Debug\tamagotchi_goeie.csproj.AssemblyReference.cache
